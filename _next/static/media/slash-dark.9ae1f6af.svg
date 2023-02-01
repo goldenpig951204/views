@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icons/slash-dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/slash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,1 C18.0751322,1 23,5.92486775 23,12 C23,18.0751322 18.0751322,23 12,23 C5.92486775,23 1,18.0751322 1,12 C1,5.92486775 5.92486775,1 12,1 Z M4.96769257,6.38282434 C3.7363102,7.92241642 3,9.87522098 3,12 C3,16.9705627 7.02943725,21 12,21 C14.124779,21 16.0775836,20.2636898 17.6171757,19.0323074 Z M12,3 C9.87522098,3 7.92241642,3.7363102 6.38282434,4.96769257 L19.0323074,17.6171757 C20.2636898,16.0775836 21,14.124779 21,12 C21,7.02943725 16.9705627,3 12,3 Z" id="icon" fill="#574B8A"></path>
+    </g>
+</svg>

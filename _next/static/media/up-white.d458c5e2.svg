@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/up-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.29289322,5.70710678 C7.90236893,5.31658249 7.90236893,4.68341751 8.29289322,4.29289322 C8.68341751,3.90236893 9.31658249,3.90236893 9.70710678,4.29289322 L15.7071068,10.2928932 C16.0976311,10.6834175 16.0976311,11.3165825 15.7071068,11.7071068 L9.70710678,17.7071068 C9.31658249,18.0976311 8.68341751,18.0976311 8.29289322,17.7071068 C7.90236893,17.3165825 7.90236893,16.6834175 8.29289322,16.2928932 L13.5857864,11 L8.29289322,5.70710678 Z" id="icon" fill="#FFFFFF" transform="translate(12.000000, 11.000000) rotate(-90.000000) translate(-12.000000, -11.000000) "></path>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icons/mail-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,3 C21.6522847,3 23,4.34771525 23,6 L23,18 C23,19.6522847 21.6522847,21 20,21 L4,21 C2.34771525,21 1,19.6522847 1,18 L1,6 C1,4.34771525 2.34771525,3 4,3 L20,3 Z M20.9999141,7.92 L12.5734623,13.8192319 C12.2291422,14.060256 11.7708578,14.060256 11.4265377,13.8192319 L11.4265377,13.8192319 L2.99991414,7.921 L3,18 C3,18.5477153 3.45228475,19 4,19 L20,19 C20.5477153,19 21,18.5477153 21,18 L20.9999141,7.92 Z M20,5 L4,5 C3.61200142,5 3.27189207,5.22696691 3.10652962,5.55404305 L12,11.7793444 L20.8934704,5.55404305 C20.7281079,5.22696691 20.3879986,5 20,5 Z" id="icon" fill="#FFFFFF"></path>
+    </g>
+</svg>
